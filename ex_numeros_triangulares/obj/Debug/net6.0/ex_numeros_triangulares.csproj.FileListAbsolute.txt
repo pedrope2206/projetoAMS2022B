@@ -1,0 +1,60 @@
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.exe
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.deps.json
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.runtimeconfig.json
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.dll
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.pdb
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.csproj.AssemblyReference.cache
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.AssemblyInfoInputs.cache
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.AssemblyInfo.cs
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.dll
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\obj\Debug\net6.0\refint\ex_numeros_triangulares.dll
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.pdb
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.genruntimeconfig.cache
+C:\Users\Pedro Pivetta\ex_numeros_triangulares\obj\Debug\net6.0\ref\ex_numeros_triangulares.dll
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.exe
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.deps.json
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.runtimeconfig.json
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.dll
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.pdb
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.csproj.AssemblyReference.cache
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.AssemblyInfoInputs.cache
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.AssemblyInfo.cs
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.csproj.CoreCompileInputs.cache
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.dll
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\refint\ex_numeros_triangulares.dll
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.pdb
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.genruntimeconfig.cache
+F:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ref\ex_numeros_triangulares.dll
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.exe
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.deps.json
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.runtimeconfig.json
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.dll
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.pdb
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.csproj.AssemblyReference.cache
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.AssemblyInfoInputs.cache
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.AssemblyInfo.cs
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.dll
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\obj\Debug\net6.0\refint\ex_numeros_triangulares.dll
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.pdb
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.genruntimeconfig.cache
+C:\Users\Pedro Pivetta\Desktop\ex_numeros_triangulares\obj\Debug\net6.0\ref\ex_numeros_triangulares.dll
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.exe
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.deps.json
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.runtimeconfig.json
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.dll
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\bin\Debug\net6.0\ref\ex_numeros_triangulares.dll
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\bin\Debug\net6.0\ex_numeros_triangulares.pdb
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.csproj.AssemblyReference.cache
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.AssemblyInfoInputs.cache
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.AssemblyInfo.cs
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.csproj.CoreCompileInputs.cache
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.dll
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ref\ex_numeros_triangulares.dll
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.pdb
+D:\Curso_programmers\Tarefas\ex_numeros_triangulares\obj\Debug\net6.0\ex_numeros_triangulares.genruntimeconfig.cache

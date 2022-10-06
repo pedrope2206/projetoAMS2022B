@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ex_numeros_triangulares/1.0.0": {
+        "runtime": {
+          "ex_numeros_triangulares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex_numeros_triangulares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
