@@ -2,6 +2,7 @@
 int contador = 0;
 int nd = 0;
 int tk = 0;
+string teste = "Ola";
 
 Console.WriteLine("Digite um número");
 nd = Convert.ToInt32(Console.ReadLine());
