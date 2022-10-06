@@ -19,10 +19,10 @@ while (nt < nd)
 
 if (nd == nt)
 {
-    Console.WriteLine("Este número é triângular");
+    Console.WriteLine("Esse número é triângular");
 }
 else
 {
-    Console.WriteLine("Este número não é triângular");
+    Console.WriteLine("Esse número não é triângular");
 }
 
