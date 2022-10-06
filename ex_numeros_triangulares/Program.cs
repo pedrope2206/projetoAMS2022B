@@ -5,7 +5,7 @@ int tk = 0;
 string teste = "Ola";
 string ola = "hello";
 
-Console.WriteLine("Digite um número");
+Console.WriteLine("Digite o número");
 nd = Convert.ToInt32(Console.ReadLine());
 
 //contador++;
