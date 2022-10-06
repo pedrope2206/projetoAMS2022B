@@ -1,6 +1,7 @@
 ﻿int nt = 0;
 int contador = 0;
 int nd = 0;
+int tk = 0;
 
 Console.WriteLine("Digite um número");
 nd = Convert.ToInt32(Console.ReadLine());
@@ -11,7 +12,7 @@ nd = Convert.ToInt32(Console.ReadLine());
 while (nt < nd)
 {
     contador++;
-    nt = (contador + nt );
+    nt = (contador + nt / tk);
 }
 
 if (nd == nt)
