@@ -25,4 +25,5 @@ else
 {
     Console.WriteLine("Esse número não é triângular");
 }
+Console.WriteLine("Obrigado por utilizar o programa!");
 
